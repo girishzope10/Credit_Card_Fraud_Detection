@@ -11,4 +11,4 @@ This project implements supervised and unsupervised machine learning models to d
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/credit-card-fraud-detection.git
+   https://github.com/girishzope10/Credit_Card_Fraud_Detection.git
